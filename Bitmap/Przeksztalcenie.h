@@ -6,6 +6,10 @@
 class Przeksztalcenie
 {
 public:
+	/*
+	* Funkcja wirtualna przeksztalcajaca bitmape.
+	* @param Bitmapa - referencja do bitmapy, ktora chcemy przeksztalcic.
+	*/
 	virtual void przeksztalc( Bitmapa & ) = 0;
 };
 
