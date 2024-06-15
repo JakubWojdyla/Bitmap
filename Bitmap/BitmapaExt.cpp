@@ -1,7 +1,7 @@
 #include "BitmapaExt.h"
 
 BitmapaExt::BitmapaExt( unsigned dlugosc, unsigned szerokosc )
-	: dlugosc_bitmapy( dlugosc ), szerokosc_bitmapy( szerokosc ), dane( dlugosc, std::vector<bool>( szerokosc, true ) )
+	: dlugosc_bitmapy( dlugosc ), szerokosc_bitmapy( szerokosc ), dane( dlugosc, std::vector<bool>( szerokosc, false ) )
 {
 }
 

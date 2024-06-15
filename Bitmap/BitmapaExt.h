@@ -8,11 +8,11 @@ class BitmapaExt :
     public Bitmapa
 {
     unsigned dlugosc_bitmapy, szerokosc_bitmapy;
-    std::vector <std::vector <bool>> dane; // true - oznacza kolor bialy, false - czarny
+    std::vector <std::vector <bool>> dane; // true - oznacza kolor czarny, false - bialy
 public:
     /*
     * Konstruktor ustawiajacy dlugosc i szerokosc bitmapy na podane wartosci. Caly dwuwymiarowy wektor
-    * reprezentujacy bitmape ustawia na false (kolor czarny).
+    * reprezentujacy bitmape ustawia na false (kolor bialy).
     * @param dlugosc - dlugosc bitmapy w pikselach,
     * @param szerokosc - szerokosc bitmapy w pikselach.
     */

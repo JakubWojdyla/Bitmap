@@ -15,6 +15,7 @@ public:
 	* @return Szerokosc bitmapy.
 	*/
 	virtual unsigned szerokosc() const = 0;
+
 	virtual bool & operator() (unsigned x, unsigned y) = 0;
 	virtual bool operator() (unsigned x, unsigned y) const = 0;
 

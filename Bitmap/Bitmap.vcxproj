@@ -130,6 +130,7 @@
     <ClCompile Include="Bitmap.cpp" />
     <ClCompile Include="Bitmapa.cpp" />
     <ClCompile Include="BitmapaExt.cpp" />
+    <ClCompile Include="Erozja.cpp" />
     <ClCompile Include="Inwersja.cpp" />
     <ClCompile Include="Przeksztalcenie.cpp" />
     <ClCompile Include="template.cpp" />
@@ -137,6 +138,7 @@
   <ItemGroup>
     <ClInclude Include="Bitmapa.h" />
     <ClInclude Include="BitmapaExt.h" />
+    <ClInclude Include="Erozja.h" />
     <ClInclude Include="Inwersja.h" />
     <ClInclude Include="Przeksztalcenie.h" />
     <ClInclude Include="template.h" />

@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Inwersja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Inwersja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Erozja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Erozja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Inwersja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Inwersja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\BitmapaExt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\BitmapaExt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\BitmapaExt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\BitmapaExt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmapa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Bitmapa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Erozja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Erozja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmapa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Bitmapa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Przeksztalcenie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Przeksztalcenie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Przeksztalcenie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Przeksztalcenie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Inwersja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Inwersja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Bitmap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,22 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Bitmap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Inwersja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Inwersja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\BitmapaExt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\BitmapaExt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Przeksztalcenie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CF15D6AC-C26A-4F12-B173-3C467413D921}|Bitmap\\Bitmap.vcxproj|solutionrelative:Bitmap\\Przeksztalcenie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +62,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Erozja.cpp",
+              "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Erozja.cpp",
+              "RelativeDocumentMoniker": "Bitmap\\Erozja.cpp",
+              "ToolTip": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Erozja.cpp",
+              "RelativeToolTip": "Bitmap\\Erozja.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T14:07:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Erozja.h",
+              "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Erozja.h",
+              "RelativeDocumentMoniker": "Bitmap\\Erozja.h",
+              "ToolTip": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Erozja.h",
+              "RelativeToolTip": "Bitmap\\Erozja.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-15T14:04:22.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Przeksztalcenie.cpp",
+              "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Przeksztalcenie.cpp",
+              "RelativeDocumentMoniker": "Bitmap\\Przeksztalcenie.cpp",
+              "ToolTip": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Przeksztalcenie.cpp",
+              "RelativeToolTip": "Bitmap\\Przeksztalcenie.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T13:59:59.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bitmapa.cpp",
+              "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmapa.cpp",
+              "RelativeDocumentMoniker": "Bitmap\\Bitmapa.cpp",
+              "ToolTip": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmapa.cpp",
+              "RelativeToolTip": "Bitmap\\Bitmapa.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T13:59:37.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BitmapaExt.cpp",
               "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\BitmapaExt.cpp",
               "RelativeDocumentMoniker": "Bitmap\\BitmapaExt.cpp",
               "ToolTip": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\BitmapaExt.cpp",
               "RelativeToolTip": "Bitmap\\BitmapaExt.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-09T17:35:16.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BitmapaExt.h",
               "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\BitmapaExt.h",
               "RelativeDocumentMoniker": "Bitmap\\BitmapaExt.h",
               "ToolTip": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\BitmapaExt.h",
               "RelativeToolTip": "Bitmap\\BitmapaExt.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-09T16:52:12.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Inwersja.cpp",
               "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Inwersja.cpp",
               "RelativeDocumentMoniker": "Bitmap\\Inwersja.cpp",
@@ -89,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Inwersja.h",
               "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Inwersja.h",
               "RelativeDocumentMoniker": "Bitmap\\Inwersja.h",
@@ -108,27 +176,27 @@
               "RelativeDocumentMoniker": "Bitmap\\Przeksztalcenie.h",
               "ToolTip": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Przeksztalcenie.h",
               "RelativeToolTip": "Bitmap\\Przeksztalcenie.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-08T11:30:55.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Bitmapa.h",
               "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmapa.h",
               "RelativeDocumentMoniker": "Bitmap\\Bitmapa.h",
               "ToolTip": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmapa.h",
               "RelativeToolTip": "Bitmap\\Bitmapa.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-08T11:23:55.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "template.h",
               "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\template.h",
               "RelativeDocumentMoniker": "Bitmap\\template.h",
@@ -141,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "template.cpp",
               "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\template.cpp",
               "RelativeDocumentMoniker": "Bitmap\\template.cpp",
@@ -154,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Bitmap.cpp",
               "DocumentMoniker": "G:\\Studia\\C\u002B\u002B\\Metody programowania\\Laboratoria\\Projekt\\Bitmap\\Bitmap\\Bitmap.cpp",
               "RelativeDocumentMoniker": "Bitmap\\Bitmap.cpp",

@@ -1,2 +1,6 @@
-﻿  BitmapaExt.cpp
+﻿  Erozja.cpp
+G:\Studia\C++\Metody programowania\Laboratoria\Projekt\Bitmap\Bitmap\Erozja.cpp(8,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+G:\Studia\C++\Metody programowania\Laboratoria\Projekt\Bitmap\Bitmap\Erozja.cpp(10,33): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+G:\Studia\C++\Metody programowania\Laboratoria\Projekt\Bitmap\Bitmap\Erozja.cpp(15,14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+G:\Studia\C++\Metody programowania\Laboratoria\Projekt\Bitmap\Bitmap\Erozja.cpp(17,15): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
   Bitmap.vcxproj -> G:\Studia\C++\Metody programowania\Laboratoria\Projekt\Bitmap\x64\Debug\Bitmap.exe
